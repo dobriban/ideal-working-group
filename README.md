@@ -14,9 +14,9 @@ What causes adversarial examples? An overview of theoretical explanations, by Ed
 
 ### Theoretical and semi-theoretical studies
 
-[The relationship between high-dimensional geometry and adversarial examples]
+[Adversarial Spheres](https://arxiv.org/abs/1801.02774)
 
-[Overfitting or perfect fitting? risk bounds for classification and regression rules that interpolate]
+[Overfitting or perfect fitting? risk bounds for classification and regression rules that interpolate (https://arxiv.org/abs/1806.05161)
 
 [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152)
 
