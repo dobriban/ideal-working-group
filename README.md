@@ -12,6 +12,21 @@ What causes adversarial examples? An overview of theoretical explanations, by Ed
 
 ## Papers:
 
+### Theoretical and semi-theoretical studies
+
+[The relationship between high-dimensional geometry and adversarial examples]
+
+[Overfitting or perfect fitting? risk bounds for classification and regression rules that interpolate]
+
+[Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152)
+
+[Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
+
+[Adversarial Training Can Hurt Generalization](https://arxiv.org/abs/1906.06032)
+
+[Provable tradeoffs in adversarially robust classification](https://arxiv.org/abs/2006.05161)
+
+### General reading
 [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
 
 [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/abs/1902.02918)
@@ -20,7 +35,6 @@ What causes adversarial examples? An overview of theoretical explanations, by Ed
 
 [VC Classes are Adversarially Robustly Learnable, but Only Improperly](https://arxiv.org/abs/1902.04217)
 
-[Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
 
 ## Other materials: 
 
