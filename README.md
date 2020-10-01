@@ -2,7 +2,9 @@
 
 This is the webpage for the working group lead by Edgar Dobriban at the IDEAL [special semester on the foundations of deep learning](https://www.ideal.northwestern.edu/special-quarters/fall-2020/).
 
-## Tentative topic: Robustness (mainly theory of adversarial robustness).
+## Tentative topic: 
+
+Robustness (mainly theory of adversarial robustness).
 
 ## Notes: 
 
