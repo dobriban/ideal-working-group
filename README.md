@@ -20,6 +20,8 @@ What causes adversarial examples? An overview of theoretical explanations, by Ed
 
 [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152)
 
+[VC Classes are Adversarially Robustly Learnable, but Only Improperly](https://arxiv.org/abs/1902.04217)
+
 [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
 
 [Adversarial Training Can Hurt Generalization](https://arxiv.org/abs/1906.06032)
@@ -32,8 +34,6 @@ What causes adversarial examples? An overview of theoretical explanations, by Ed
 [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/abs/1902.02918)
 
 [On Evaluating Adversarial Robustness](https://arxiv.org/abs/1902.06705)
-
-[VC Classes are Adversarially Robustly Learnable, but Only Improperly](https://arxiv.org/abs/1902.04217)
 
 
 ## Other materials: 
