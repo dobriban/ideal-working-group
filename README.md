@@ -20,11 +20,15 @@ Robustness (mainly theory of adversarial robustness).
 
 [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152)
 
+[Adversarial Risk Bounds via Function Transformation](https://arxiv.org/abs/1810.09519)
+
 [VC Classes are Adversarially Robustly Learnable, but Only Improperly](https://arxiv.org/abs/1902.04217)
 
 [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
 
 [Adversarial Training Can Hurt Generalization](https://arxiv.org/abs/1906.06032)
+
+[Precise Tradeoffs in Adversarial Training for Linear Regression](https://arxiv.org/abs/2002.10477)
 
 [Provable tradeoffs in adversarially robust classification](https://arxiv.org/abs/2006.05161)
 
