@@ -24,6 +24,8 @@ Robustness (mainly theory of adversarial robustness).
 
 [Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/abs/1901.08573)
 
+[Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/abs/1902.02918)
+
 [VC Classes are Adversarially Robustly Learnable, but Only Improperly](https://arxiv.org/abs/1902.04217)
 
 [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
