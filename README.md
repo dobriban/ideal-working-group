@@ -6,6 +6,10 @@ This is the webpage for the working group lead by Edgar Dobriban at the IDEAL [s
 
 Robustness (mainly theory of adversarial robustness).
 
+Illustration of adversarial examples, from [https://gradientscience.org/intro_adversarial/](https://gradientscience.org/intro_adversarial/), by Aleksander Mądry & Ludwig Schmidt:
+
+[![Illustration of adversarial examples](https://gradientscience.org/images/piggie.png)](https://gradientscience.org/images/piggie.png "Illustration of adversarial examples") 
+
 ## Notes: 
 
 [What causes adversarial examples? An overview of theoretical explanations](https://github.com/dobriban/ideal-working-group/adv_note.pdf), by Edgar Dobriban (work in progress)
