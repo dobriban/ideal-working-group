@@ -52,6 +52,6 @@ Good tutorial: [J. Z. Kolter and A. Madry: Adversarial Robustness - Theory and P
 
 [CS 598: Special Topics on Adversarial Machine Learning](https://aisecure.github.io/TEACHING/2020_fall.html)
 
-[https://www.robust-ml.org/](https://www.robust-ml.org/)
+[robust-ml.org/](https://www.robust-ml.org/)
 
 
