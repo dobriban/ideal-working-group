@@ -22,6 +22,8 @@ Robustness (mainly theory of adversarial robustness).
 
 [Adversarial Risk Bounds via Function Transformation](https://arxiv.org/abs/1810.09519)
 
+[Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/abs/1901.08573)
+
 [VC Classes are Adversarially Robustly Learnable, but Only Improperly](https://arxiv.org/abs/1902.04217)
 
 [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
@@ -43,3 +45,11 @@ Robustness (mainly theory of adversarial robustness).
 ## Other materials: 
 
 See section 6.1 of [my lecture notes](https://github.com/dobriban/Topics-in-deep-learning/blob/master/Lecture%20Notes/stat_991.pdf) for a collection of materials.
+
+Good tutorial: [J. Z. Kolter and A. Madry: Adversarial Robustness - Theory and Practice (NeurIPS 2018 Tutorial)](www.youtube.com/watch?v=TwP-gKBQyic). [Website](adversarial-ml-tutorial.org/)
+
+[CS 598: Special Topics on Adversarial Machine Learning](https://aisecure.github.io/TEACHING/2020_fall.html)
+
+[https://www.robust-ml.org/](https://www.robust-ml.org/)
+
+
