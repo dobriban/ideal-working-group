@@ -8,7 +8,7 @@ Robustness (mainly theory of adversarial robustness).
 
 ## Notes: 
 
-What causes adversarial examples? An overview of theoretical explanations, by Edgar Dobriban (work in progress)
+[What causes adversarial examples? An overview of theoretical explanations](https://github.com/dobriban/ideal-working-group/adv_note.pdf), by Edgar Dobriban (work in progress)
 
 ## Papers:
 
