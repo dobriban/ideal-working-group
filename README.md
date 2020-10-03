@@ -2,9 +2,9 @@
 
 This is the webpage for the working group lead by Edgar Dobriban at the IDEAL [special semester on the foundations of deep learning](https://www.ideal.northwestern.edu/special-quarters/fall-2020/).
 
-## Tentative topic: 
+## Tentative topic: Robustness 
 
-Robustness (mainly theory of adversarial robustness).
+Mainly focusing on the theory of adversarial robustness.
 
 Illustration of adversarial examples, from [https://gradientscience.org/intro_adversarial/](https://gradientscience.org/intro_adversarial/), by Aleksander Mądry & Ludwig Schmidt:
 
