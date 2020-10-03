@@ -60,6 +60,6 @@ Good tutorial: [J. Z. Kolter and A. Madry: Adversarial Robustness - Theory and P
 
 [Paper list](https://github.com/P2333/Papers-of-Robust-ML)
 
-[robust-ml.org/](https://www.robust-ml.org/)
+[robust-ml.org](https://www.robust-ml.org/)
 
 
