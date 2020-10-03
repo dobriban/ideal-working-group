@@ -43,6 +43,8 @@ Illustration of adversarial examples, from [https://gradientscience.org/intro_ad
 ### General reading
 [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
 
+[Motivating the Rules of the Game for Adversarial Example Research](https://arxiv.org/abs/1807.06732)
+
 [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/abs/1902.02918)
 
 [On Evaluating Adversarial Robustness](https://arxiv.org/abs/1902.06705)
