@@ -12,7 +12,7 @@ Illustration of adversarial examples, from [https://gradientscience.org/intro_ad
 
 ## Notes: 
 
-[What causes adversarial examples? An overview of theoretical explanations](https://github.com/dobriban/ideal-working-group/adv_note.pdf), by Edgar Dobriban (work in progress)
+[What causes adversarial examples? An overview of theoretical explanations](https://github.com/dobriban/ideal-working-group/blob/master/adv_note.pdf), by Edgar Dobriban (work in progress)
 
 ## Papers:
 
