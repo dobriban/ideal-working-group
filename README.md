@@ -20,6 +20,8 @@ Illustration of adversarial examples, from [https://gradientscience.org/intro_ad
 
 [Adversarial Spheres](https://arxiv.org/abs/1801.02774)
 
+[Certified Robustness to Adversarial Examples with Differential Privacy](Certified Robustness to Adversarial Examples with Differential Privacy)
+
 [Overfitting or perfect fitting? risk bounds for classification and regression rules that interpolate](https://arxiv.org/abs/1806.05161)
 
 [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152)
@@ -37,6 +39,8 @@ Illustration of adversarial examples, from [https://gradientscience.org/intro_ad
 [Adversarial Training Can Hurt Generalization](https://arxiv.org/abs/1906.06032)
 
 [Precise Tradeoffs in Adversarial Training for Linear Regression](https://arxiv.org/abs/2002.10477)
+
+[A Closer Look at Accuracy vs. Robustness](https://arxiv.org/abs/2003.02460)
 
 [Provable tradeoffs in adversarially robust classification](https://arxiv.org/abs/2006.05161)
 
